@@ -1,0 +1,4 @@
+#Tue Mar 19 12:10:59 IST 2019
+base.0=C\:\\Users\\user\\Documents\\GitHub\\ionicdayone\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
